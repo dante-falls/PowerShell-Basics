@@ -20,10 +20,6 @@ The "Get-Service" cmdlet will display all available services on a Windows machin
 <img src="https://i.imgur.com/QLJE06o.png" height="300%" width="300%" alt="PowerShell Variables"/>
 <br />
 <br />
-The "Get-Process" and "Stop-Process" cmdlets will identify and end a running process: <br/>
-<img src="https://i.imgur.com/Elb82bj.png" height="300%" width="300%" alt="PowerShell Variables"/>
-<br />
-<br />
 </p>
 
 <!--
