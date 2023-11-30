@@ -67,7 +67,7 @@ PowerShell Commands Can Be Substituted With Variables Inside Of Strings:
 <p align="center">
 Formatting A String Inside A Variable With PowerShell:
 <img src="https://i.imgur.com/q5CD5i5.png" height="300%" width="300%" alt="PowerShell Variables"/>
-.NET Command To Format A String Inside A Variable (In PowerShell):
+.NET Command To Format A String Inside A Variable (With PowerShell):
 <img src="https://i.imgur.com/9EwYaAZ.png" height="300%" width="300%" alt="PowerShell Variables"/>
 <br />
 <br />
