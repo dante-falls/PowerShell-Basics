@@ -11,7 +11,7 @@ You can program your PowerShell scripts to execute specific code based on a set 
 
 <h2>Syntax</h2>
 <p align="center">
-<img src="https://i.imgur.com/DO6IZuw.png" height="300%" width="300%" alt="PowerShell Variables"/>
+<img src="https://i.imgur.com/DO6IZuw.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
 <br />
 <br />
 </p>
@@ -24,14 +24,22 @@ You can program your PowerShell scripts to execute specific code based on a set 
 
 <p align="center">
 Single if Statement - If the condition is true, do something: <br/>
-<img src="https://i.imgur.com/wM4yPAG.png" height="300%" width="300%" alt="PowerShell Variables"/>
+<img src="https://i.imgur.com/wM4yPAG.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
 <br />
 <br />
 </p>
 
 <p align="center">
 if-else Statement - If the condition is true, do something. If the condition is false, do something else: <br/>
-<img src="https://i.imgur.com/2tn8FXf.png" height="300%" width="300%" alt="PowerShell Variables"/>
+<img src="https://i.imgur.com/2tn8FXf.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
+<br />
+<br />
+</p>
+
+
+<p align="center">
+elseif Statement - If the first condition is false, check for another condition. If both those conditions are false, run the else clause: <br/>
+<img src="https://i.imgur.com/2acNkXO.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
 <br />
 <br />
 </p>
