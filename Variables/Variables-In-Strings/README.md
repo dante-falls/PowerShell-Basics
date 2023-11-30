@@ -1,7 +1,7 @@
-<h1>Using Variables In Strings</h1>
+<h1>Variable Substitutions</h1>
 
 <h2>Description</h2>
-Below are some of the ways of using variables in strings with PowerShell. 
+Below are some of the ways of operating on strings with PowerShell. 
 <br />
 
 <h1>Concatenation</h1>
