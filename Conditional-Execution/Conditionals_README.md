@@ -7,7 +7,7 @@ You can program your PowerShell scripts to execute specific code based on a set 
 
 <h1>1. if Statement</h1>
 
-- <b>In PowerShell, the "if' statement will execute a block of code if a condition evaluates to true. You can use the "elseif" clause if you want to check for multiple conditions. The "else" clause is used in situations where the condition is a "this or that" scenario. For example, imagine a scenario where you want take an action if port 22 is open on a computer. If port 22 is open, you want to disable the port. If port 22 is closed, you want to write to the screen "Port 22 is closed". In this scenario, you could use an if-else clause.
+- <b>In PowerShell, the "if' statement will execute a block of code if a condition evaluates to true. In PowerShell, blocks of code are surrounded by "{}". You can use the "elseif" clause if you want to check for multiple conditions. The "else" clause is used in situations where the condition is a "this or that" scenario. For example, imagine a scenario where you want take an action if port 22 is open on a computer. If port 22 is open, you want to disable the port. If port 22 is closed, you want to write to the screen "Port 22 is closed". In this scenario, you could use an if-else clause.
 
 <h2>Syntax</h2>
 <p align="center">
