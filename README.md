@@ -1,7 +1,7 @@
 # PowerShell-Basics
 This Repository is dedicated to learning fundamental PowerShell commands and functions. 
 
-How to use this repository:
+<b> How to use this repository:
 
 Each folder shows a different, fundamental PowerShell concept. Inside each folder are .md files and .ps1 files. 
 
