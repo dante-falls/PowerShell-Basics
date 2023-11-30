@@ -44,6 +44,43 @@ elseif Statement - If the first condition is false, check for another condition.
 <br />
 </p>
 
+<h1>2. Comparison Operators</h1>
+
+- <b> -eq: The "-eq" operator does an equality check between two values.
+  - <b> -ceq: case sensitive equality
+  - <b> -ieq: case insensitive equality.
+- <b> -ne: The "-ne" operator checks if two values are not equal to eachother.
+  - <b> -cne: case sensitive non-equality
+  - <b> -ine: case insensitive non-equality
+
+<p align="center">
+The -ne "not equal to" operator can be used to compare values in PowerShell: <br/>
+<img src="https://i.imgur.com/PhC4KR6.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
+<br />
+<br />
+</p>
+
+- <b> -gt: The "-gt" operator checks if a value is greater than another value.
+  - <b> -cgt: case sensitive greater than
+  - <b> -igt: case insensitive greater than
+- <b> -ge: The "-ge" operator checks if a value is greater than or equal to another value.
+  - <b> -cge: case sensitive equality
+  - <b> -ige: case insensitive equality.
+- <b> -lt: The "-lt" operator checks if a value is less than another value.
+  - <b> -clt: case sensitive equality
+  - <b> -ilt: case insensitive equality.
+- <b> -le: The "-le" operator checks if a value is less than or equal to another value.
+  - <b> -cle: case sensitive equality
+  - <b> -ile: case insensitive equality.
+
+<p align="center">
+The -ge (greater than or equal to) and -le (less than or equal to) comparison operators in PowerShell: <br/>
+<img src="https://i.imgur.com/2acNkXO.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
+<br />
+<br />
+</p>
+
+
 <h1>This Page Is Still In Progress...</h1>
 
 <!--
