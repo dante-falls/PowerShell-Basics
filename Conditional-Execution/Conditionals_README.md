@@ -1,7 +1,7 @@
 <h1>Conditional Execution</h1>
 
 <h2>Description</h2>
-You can program your PowerShell scripts to execute specific code based on a set of conditions. The "If" statement, for example, can be used to run specific code if a number value is too high. 
+You can program your PowerShell scripts to execute specific code based on a set of conditions. The "if" statement, for example, can be used to run specific code if a number value is too high. 
 <br />
 
 
