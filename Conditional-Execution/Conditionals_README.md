@@ -52,14 +52,6 @@ elseif Statement - If the first condition is false, check for another condition.
 - <b> -ne: The "-ne" operator checks if two values are not equal to eachother.
   - <b> -cne: case sensitive non-equality
   - <b> -ine: case insensitive non-equality
-
-<p align="center">
-The -ne "not equal to" operator can be used to compare values in PowerShell: <br/>
-<img src="https://i.imgur.com/PhC4KR6.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
-<br />
-<br />
-</p>
-
 - <b> -gt: The "-gt" operator checks if a value is greater than another value.
   - <b> -cgt: case sensitive greater than
   - <b> -igt: case insensitive greater than
@@ -73,6 +65,16 @@ The -ne "not equal to" operator can be used to compare values in PowerShell: <br
   - <b> -cle: case sensitive equality
   - <b> -ile: case insensitive equality.
 
+ 
+<h2>Comparison Operator Example(s):</h2>
+
+<p align="center">
+The -ne "not equal to" operator can be used to compare values in PowerShell: <br/>
+<img src="https://i.imgur.com/PhC4KR6.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
+<br />
+<br />
+</p>
+
 <p align="center">
 The -ge (greater than or equal to) and -le (less than or equal to) comparison operators in PowerShell: <br/>
 <img src="https://i.imgur.com/2acNkXO.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
@@ -80,6 +82,41 @@ The -ge (greater than or equal to) and -le (less than or equal to) comparison op
 <br />
 </p>
 
+<h1>3. Wildcard Matching With "-like" Operator</h1>
+PowerShell has it's own syntax for wildcard based pattern matching. You can use wildcard based matching with the "-like" operator.
+
+- <b> ? - The "?" symbol will match any single character.
+- <b> * - The "*" symbol will match multiple characters.
+
+<h2>Wildcard Matching Example(s):</h2>
+
+<p align="center">
+You can see the "*" matches chains of characters: <br/>
+<img src="https://i.imgur.com/3QLvmbn.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
+<br />
+<br />
+</p>
+
+<h1>4. Regular Expression (Regex) Matching With "-match" Operator</h1>
+PowerShell is also capable of matching regular expressions with the "-match" operator. Refer to the Regex Quickstart image below for help.
+
+<p align="center">
+Regex Quickstart Guide: <br/>
+<img src="https://i.imgur.com/tuLGwYZ.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
+<br />
+<br />
+</p>
+
+<h2>Regex Matching Example(s):</h2>
+
+<p align="center">
+Matching a Regex pattern in PowerShell: <br/>
+<img src="https://i.imgur.com/M8dxJZz.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
+By default, a Regex pattern will match anywhere in the string. You can specify a substring like this:
+<img src="https://i.imgur.com/tO0q2BI.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
+<br />
+<br />
+</p>
 
 <h1>This Page Is Still In Progress...</h1>
 
