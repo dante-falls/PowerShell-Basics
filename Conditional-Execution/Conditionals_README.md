@@ -118,8 +118,6 @@ By default, a Regex pattern will match anywhere in the string. You can specify a
 <br />
 </p>
 
-<h1>This Page Is Still In Progress...</h1>
-
 <!--
  ```diff
 - text in red
