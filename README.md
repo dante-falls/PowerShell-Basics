@@ -1,5 +1,5 @@
 # PowerShell-Basics
-This Repository is dedicated to learning fundamental PowerShell commands and functions. 
+This Repository is dedicated to learning fundamental PowerShell commands and functions. I will continue to add to this Repository as I learn more PowerShell, so give it a star and follow it. 
 
 **How to use this repository:**
 
