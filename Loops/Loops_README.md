@@ -57,10 +57,19 @@ In PowerShell, the "foreach" loop is used to iterate through all values in a col
 - <b>Windows</b>
 
 <h2>foreach Loop Example(s):</h2>
+
 1. The below foreach loop iterates through an array of letters and prints out one of the letters each time. Notice there is no initialization, the foreach loop automatically starts at the beginning of the array and the loop ends when the array is finished.
 
 <p align="center">
 <img src="https://i.imgur.com/yZFrbpr.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
+<br />
+<br />
+</p>
+
+2. The below foreach loop iterates through a directory and uses the Get-ChildItem cmdlet to recursively print out each item in the directory.
+
+<p align="center">
+<img src="https://i.imgur.com/jkdBs9n.png" height="300%" width="300%" alt="PowerShell Conditionals"/>
 <br />
 <br />
 </p>
